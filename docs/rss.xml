@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://lynn626.github.io/Blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lynn626.github.io/Blog</link></image><lastBuildDate>Mon, 08 Apr 2024 19:42:13 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>订阅器ip优选</title><link>https://lynn626.github.io/Blog/post/ding-yue-qi-ip-you-xuan.html</link><description>TOKEN auto sd123456&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://lynn626.github.io/Blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lynn626.github.io/Blog</link></image><lastBuildDate>Tue, 09 Apr 2024 16:14:17 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>订阅器ip优选</title><link>https://lynn626.github.io/Blog/post/ding-yue-qi-ip-you-xuan.html</link><description>TOKEN auto sd123456&#13;
 HOST vless.admin-b03.workers.dev&#13;
 UUID 90cd4a77-141a-43c9-991b-08263cfe9c10&#13;
 PATH /?ed=2048&#13;
@@ -95,7 +95,4 @@ ADDNOTLSAPI&#13;
 https://ipdb.api.030101.xyz/?type=bestcf&amp;country=true&#13;
 https://ipdb.api.030101.xyz/?type=bestproxy&amp;country=true&#13;
 https://addressesapi.090227.xyz/CloudFlareYes&#13;
-https://addressesapi.090227.xyz/cmcc-ipv6。</description><guid isPermaLink="true">https://lynn626.github.io/Blog/post/ding-yue-qi-ip-you-xuan.html</guid><pubDate>Mon, 08 Apr 2024 19:41:48 +0000</pubDate></item><item><title>天气</title><link>https://lynn626.github.io/Blog/post/tian-qi.html</link><description>#第一段&#13;
-今天晴&#13;
-#第二段&#13;
-中午时分晴转多云。</description><guid isPermaLink="true">https://lynn626.github.io/Blog/post/tian-qi.html</guid><pubDate>Sun, 07 Apr 2024 16:58:56 +0000</pubDate></item></channel></rss>
+https://addressesapi.090227.xyz/cmcc-ipv6。</description><guid isPermaLink="true">https://lynn626.github.io/Blog/post/ding-yue-qi-ip-you-xuan.html</guid><pubDate>Mon, 08 Apr 2024 19:41:48 +0000</pubDate></item></channel></rss>
